@@ -37,7 +37,7 @@ function LoginComponent() {
           priority={true}
         ></Image>
       </div>
-
+{/* hjgediqegdiyge */}
       <section className={styles.info}>
         <h1 className={styles.app_name}>MESS MENU</h1>
         <p className={styles.p1}>
